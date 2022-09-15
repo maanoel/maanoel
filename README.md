@@ -1,5 +1,5 @@
 <a href="https://github.com/maanoel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanoel&layout=compact&langs_count=7&theme=great-gatsby"/>
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanoel&layout=compact&langs_count=7&theme=great-gatsby"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="c# e .net core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
