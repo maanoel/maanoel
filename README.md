@@ -1,13 +1,10 @@
 <a href="https://github.com/maanoel">
 
-
-  <h1> Hi, I'm Manoel Vitor! :) </h1>
+  # Hi there, my names is Manoel Vitor - a Specialist Full Stack Software developer! 👋💻
   
-  <p>I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, Agile Methodologies and Software Craftsmanship. 
-  Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript.</p>
-
-    Here's a collection of the technologies I've been working with: 
+  ## I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, and a staunch enthusiast of Agile methodologies and Software Craftsmanship. Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript
   
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="c# e .net core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
