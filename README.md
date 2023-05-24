@@ -1,8 +1,8 @@
 <a href="https://github.com/maanoel">
 
-  # Hi there, I'm Manoel Vitor - a Specialist Full Stack Software developer! 👋💻
+  ## Hi there, I'm Manoel Vitor - a Specialist Full Stack Software developer! 👋💻
   
-  ## I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, and a staunch enthusiast of Agile methodologies and Software Craftsmanship. Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript
+  ### I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, and a staunch enthusiast of Agile methodologies and Software Craftsmanship. Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript
   
  
 <div style="display: inline_block"><br>
