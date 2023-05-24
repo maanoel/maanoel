@@ -1,7 +1,7 @@
 <a href="https://github.com/maanoel">
 
 
-  <h1> Hi, I'm Manoel Vitor! 👋 </h1>
+  <h1> Hi, I'm Manoel Vitor! :) </h1>
   
   <p>I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, Agile Methodologies and Software Craftsmanship. 
   Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript.</p>
