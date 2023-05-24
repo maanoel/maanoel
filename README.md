@@ -7,6 +7,9 @@
   </br>
  <p>Currently, I'm improving my skills in System Architecture while actively programming in C# and TypeScript.</p>
  
+ <p>Here's a collection of the technologies I've been working with: </p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="c# e .net core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
