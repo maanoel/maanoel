@@ -2,11 +2,10 @@
 
 
   <h1> Hi, I'm Manoel Vitor! 👋 </h1>
-  <h2>I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, and a leal enthusiast of Agile methodologies and Software Craftsmanship. 
-    
+  <h2>I'm a seasoned Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, Agile Methodologies and Software Craftsmanship. 
   Currently, I'm enhancing my skills in System Architecture while actively programming in C# and TypeScript.</h2>
 
-Here's a collection of the technologies I've been working with:
+  Here's a collection of the technologies I've been working with:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="c# e .net core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
