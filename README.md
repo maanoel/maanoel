@@ -4,6 +4,7 @@
   
  <p> I'm a Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, Agile methodologies and Software Craftsmanship.</p>
   
+  </br>
  <p>Currently, I'm improving my skills in System Architecture while actively programming in C# and TypeScript.</p>
  
 <div style="display: inline_block"><br>
