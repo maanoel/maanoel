@@ -1,6 +1,6 @@
 <a href="https://github.com/maanoel">
 
-  ## Hi there, I'm Manoel Vitor - a Specialist Full Stack Software Engineer! 👋💻
+  ## Hi there, I'm Manoel Vitor - A Specialist Full Stack Software Engineer! 👋💻
   
  <p> I'm a Software Developer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, agile methodologies and software craftsmanship.</p>
   
