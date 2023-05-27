@@ -4,7 +4,7 @@
   
  <p> I'm a Software Engineer with over 15 years of experience, proficient in multiple programming languages, software testing methodologies, mentoring, agile methodologies and software craftsmanship.</p>
   
- <p>Currently, I'm improving my skills in System Architecture while actively programming in C# and TypeScript.</p>
+ <p>Currently, I'm improving my skills in System Architecture focusing on Micro Frontends and Microservices while actively programming in C# and TypeScript.</p>
  
  <p>Here's a collection of the technologies I've been working with: </p>
 
